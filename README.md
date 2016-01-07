@@ -1,8 +1,8 @@
 # dropbox_commander 
 A Script to execute scripts remotely based on Dropbox for Linux
-> *Pre-requisites:*
+> **Pre-requisites:**
 
-> - install inotifywait tool.
+> - install ***inotifywait*** tool.
 
 > Before execute *dropbox_commander*, open script and modify this variables (acording to your local configurations):
 
